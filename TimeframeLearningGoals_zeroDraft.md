@@ -10,6 +10,8 @@ Leiying PU (Specialization: Technology & Communication)
 
 The proposed time frame in the following picture covers the most of important time spots: starting date and ending date, Internship Preparation Report hand-in time, Internship Reflection Report and Evaluation Form hand-in time, group meeting with university supervisors and host mentors. 
 
+![Timeline (draft)](https://github.com/puleiying/BMSLab_Internship/blob/master/draft%20timeline.png)
+
 
 **The starting date:** Depended on the date we sign the Internship Agreement, I could start the internship on the Week March 4 or the week later, Week March 11. Generally, I would prefer to work on Tuesday and Wednesday every week, and thus the starting date would be March 5 or March 13 (sorry for the inconvenience, but I have another appointment on March 12). The date is open for discussion. 
 
